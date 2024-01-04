@@ -7,7 +7,7 @@
     </a>
     <span> | </span>
     <a target="_blank" href="https://github.com/KaritinaBrito/gym-typescript">
-      Solution
+      Code
     </a>
   </h3>
 </div>
